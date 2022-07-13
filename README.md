@@ -23,3 +23,4 @@ Ingeniero en Sistemas Informáticos y Computación, desarrollador de software ta
 Me interese buscar nuevas oportunidades que me permitan crecer y desarrollarme tanto personal como profesional 😉.
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=acvicente&show_icons=true&count_private=true)  
