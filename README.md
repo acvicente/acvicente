@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/acvicente"><img src="https://api.daily.dev/devcards/ea532b871b37472f90a72972ea73cfc3.png?r=n2p" width="400" alt="Andy Carlos Vicente Tene's Dev Card"/></a>
 
-###### Hola 👋, soy acvicente
+##### Hola 👋, soy acvicente
 
 Ingeniero en Sistemas Informáticos y Computación, desarrollador de software tanto web y móvil que brindan soluciones para ayudar a las personas optimizando sus procesos que facilitan sus actividades laborales y cotidianas. Me gusta estar aprendiendo e instruyendome constantemente, tengo buena capacidad para trabajar en equipo. Mis principales Lenguajes/Frameworks/Motores de basede datos de desarollo son: Javascript, Typescript, Node.js, Angular, Ionic, Mysql, Mongo
 
